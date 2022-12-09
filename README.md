@@ -20,7 +20,7 @@ They are as follows:
 
 
 ## Future Additions in Project:
-1. To Add **Manager Login** which includes -
+To Add **Manager Login** which includes -
   1. To see all customer details
   2. To see all food ordered by customer
   3. CRUD operations on Room Details
