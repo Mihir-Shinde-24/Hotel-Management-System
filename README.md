@@ -4,13 +4,13 @@ This is a Hotel Management System Console Based Project made using Java and JDBC
 ## Details of the Project:
 1. The Hotel has 8 types of rooms. 
 They are as follows:
-  a) Single Room [AC / NON-AC]
-  b) Double Room [AC / NON-AC]
-  c) Triple Room [AC / NON-AC]
-  d) Quad Room [AC / NON-AC]
+  - Single Room [AC / NON-AC]
+  - Double Room [AC / NON-AC]
+  - Triple Room [AC / NON-AC]
+  - Quad Room [AC / NON-AC]
 2. When the application starts, the Customer has two options: 
-  a) To just View All the Room Details. 
-  b) To Book a Room.
+  1. To just View All the Room Details. 
+  2. To Book a Room.
 3. While Booking the Room, the Customer is asked for the room number he is interested in. Then, the availability of the following room is checked and following room is assigned to him. The customer is also asked for his personal details which are then stored in database.
 4. The hotel also provides Food Ordering. The Customer has to first Login to Order Food. 
 5. The Customer Login asks for Room number and customer's Aadhar Number which are first validated and then allows the Customer to access the Food Ordering Feature.
@@ -20,7 +20,7 @@ They are as follows:
 
 
 ## Future Additions in Project:
-To Add Manager Login which includes -
+1. To Add **Manager Login** which includes -
   1. To see all customer details
   2. To see all food ordered by customer
   3. CRUD operations on Room Details
