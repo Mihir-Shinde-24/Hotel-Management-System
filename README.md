@@ -9,8 +9,8 @@ They are as follows:
   - Triple Room [AC / NON-AC]
   - Quad Room [AC / NON-AC]
 2. When the application starts, the Customer has two options: 
-  1. To just View All the Room Details. 
-  2. To Book a Room.
+  - To just View All the Room Details. 
+  - To Book a Room.
 3. While Booking the Room, the Customer is asked for the room number he is interested in. Then, the availability of the following room is checked and following room is assigned to him. The customer is also asked for his personal details which are then stored in database.
 4. The hotel also provides Food Ordering. The Customer has to first Login to Order Food. 
 5. The Customer Login asks for Room number and customer's Aadhar Number which are first validated and then allows the Customer to access the Food Ordering Feature.
